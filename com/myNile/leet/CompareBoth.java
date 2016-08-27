@@ -8,7 +8,7 @@ public class CompareBoth {
 	public static void main(String[] args) {
 
 		String low="1";
-		String high="100";
+		String high="1284921849812498246812659182659826985691826598216981265986129865918264918265812593752397592365928658726358623986523750";
 		
 		STRBGCountInRange stg1=new STRBGCountInRange();
 		if(!StrobogramaticUtil.validate(low,high)){
